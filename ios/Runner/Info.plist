@@ -66,5 +66,15 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+
+	<!-- Permissões do ClickFarma -->
+	<key>NSCameraUsageDescription</key>
+	<string>O ClickFarma precisa da câmera para tirar foto da sua receita médica.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>O ClickFarma precisa acessar a galeria para selecionar a imagem da receita médica.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>O ClickFarma precisa da sua localização para entregar os medicamentos no seu endereço.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>O ClickFarma precisa da sua localização para rastrear a entrega em tempo real.</string>
 </dict>
 </plist>

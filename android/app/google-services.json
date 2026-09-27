@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "526290186644",
+    "project_id": "clickfarma-gbarros",
+    "storage_bucket": "clickfarma-gbarros.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526290186644:android:5a725476d8e78fa8965f81",
+        "android_client_info": {
+          "package_name": "com.example.appclickfarma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526290186644-lc68enmmeuks49c77qmvr8tnufuscmuk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd96wV2s2ZCA0kUyZYHU32QXQRhrGLAgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526290186644-lc68enmmeuks49c77qmvr8tnufuscmuk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
